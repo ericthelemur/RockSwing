@@ -1,6 +1,7 @@
-# RockSwing
+# Rock Swing
 Quick Game/tech demo with grapple swinging and procedural rock textures. I made this in a day for University of Warwick's October 2020 Game Jam
 
+![image](https://user-images.githubusercontent.com/8903016/110674938-4a02b380-81ca-11eb-9366-74ded2d7a286.png)
 
 Made with Processing, so almost all from scratch.
 
